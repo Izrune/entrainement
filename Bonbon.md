@@ -1,6 +1,6 @@
 -Debut de Gourmendise :( reel A "argent", Reel B "prix")
          
-	 Si A > B 
+	 Si A >= B 
    
 	 	Reel C "nombre de bonbon"=A-B
 		
