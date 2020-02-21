@@ -5,7 +5,7 @@
 	 	Reel C "nombre de bonbon"=A-B
 		
    
-	 	retourner Reel C
+	 	retourner ENTIER C
 		
  	si non retourne 0
  Fin de Gourmendise
