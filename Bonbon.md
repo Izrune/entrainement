@@ -1,7 +1,7 @@
 -Debut de Gourmendise :( reel A "argent", Reel B "prix")
          
 	 
-	 Si A<0 ou B<0
+	 Si A>0 ou B>0
 	    Retourne 0
 	 Fin   
 	 
